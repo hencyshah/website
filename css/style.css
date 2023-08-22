@@ -3,9 +3,9 @@
     margin: 0%;
     list-style: none;
     text-decoration: none;
-    
   }
   
+
   
   .navbar-txt h5{
   
@@ -362,7 +362,7 @@
 .card {
   width: 250px;
   height: 150px;
-  background-image: url(img\gmail3.png);
+  background-image: url(..\img\gmail3.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: black;
@@ -512,7 +512,7 @@
   width: 190px;
   height: 254px;
   margin-left: 10px;
-  background-image: url(/img/hency.jpg);
+  background-image: url(../img/hency.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 40px 0 40px 0;
@@ -658,55 +658,55 @@
 }
 
 .delete2 {
-  background-image: url(/img/s4.jpg);
+  background-image: url(../img/s4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .delete3 {
-  background-image: url(/img/s7.jpeg);
+  background-image: url(../img/s7.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .delete4 {
-  background-image: url(/img/s8.jpg);
+  background-image: url(../img/s8.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .delete5 {
-  background-image: url(/img/S9.jpg);
+  background-image: url(../img/S9.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .delete6 {
-  background-image: url(/img/Capture5.PNG);
+  background-image: url(../img/Capture5.PNG);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .delete7 {
-  background-image: url(/img/s10.jpg);
+  background-image: url(../img/s10.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .delete8 {
-  background-image: url(/img/s11.PNG);
+  background-image: url(../img/s11.PNG);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .delete9 {
-  background-image: url(/img/s12.jpg);
+  background-image: url(../img/s12.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .delete10 {
-  background-image: url(/img/s13.jpg);
+  background-image: url(../img/s13.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -881,7 +881,7 @@
 }
 
 .cardA-image {
-  background-image: url(/img/article1.jpeg);
+  background-image: url(../img/article1.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -981,7 +981,7 @@
 }
 
 .cardB-image {
-  background-image: url(/img/article2.jpeg);
+  background-image: url(../img/article2.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1008,7 +1008,7 @@
 }
 
 .cardC-image {
-  background-image: url(/img/article3.jpeg);
+  background-image: url(../img/article3.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1035,7 +1035,7 @@
 }
 
 .cardD-image {
-  background-image: url(/img/article4.jpeg);
+  background-image: url(../img/article4.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1062,7 +1062,7 @@
 }
 
 .cardE-image {
-  background-image: url(/img/article5.jpeg);
+  background-image: url(../img/article6.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1089,7 +1089,7 @@
 }
 
 .cardF-image {
-  background-image: url(/img/article6.jpeg);
+  background-image: url(../img/article6.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1368,7 +1368,7 @@
 }
 
 .cardk-image {
-  background-image: url(/img/home-1.jpeg);
+  background-image: url(../img/home-1.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1395,7 +1395,7 @@
 }
 
 .cardk2-image {
-  background-image: url(/img/home-2.jpeg);
+  background-image: url(../img/home-2.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1407,7 +1407,7 @@
 }
 
 .cardk3-image {
-  background-image: url(/img/article3.jpeg);
+  background-image: url(../img/article3.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1419,7 +1419,7 @@
 }
 
 .cardk4-image {
-  background-image: url(/img/article4.jpeg);
+  background-image: url(../img/article4.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1440,7 +1440,7 @@
 }
 
 .cardk5-image {
-  background-image: url(/img/article5.jpeg);
+  background-image: url(../img/article5.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1451,7 +1451,7 @@
   border-radius: 6px 6px 0 0;
 }
 .cardk6-image {
-  background-image: url(/img/article8.jpeg);
+  background-image: url(../img/article8.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1503,7 +1503,7 @@
 
 @font-face {
     font-family: 'CustomFont'; /* Choose a name for your font */
-    src: url('/peinaud/PeinaudMedium.ttf') format('truetype');
+    src: url('../peinaud/PeinaudMedium.ttf') format('truetype');
 }
 
 .copyright {

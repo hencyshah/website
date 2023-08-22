@@ -1026,7 +1026,7 @@
 }
 
 .cardE-image {
-  background-image: url(/img/article5.jpeg);
+  background-image: url(../img/article5.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1309,7 +1309,7 @@
 }
 
 .cardk-image {
-  background-image: url(img/home-2.jpeg);
+  background-image: url(../img/home-2.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
