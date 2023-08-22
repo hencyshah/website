@@ -929,6 +929,14 @@
 }
 
 .heading {
+  font-weight:900;
+  color: rgb(0, 0, 0);
+  padding: 7px;
+  text-align: justify;
+}
+
+
+.heading6 {
   font-weight: 600;
   color: rgb(88, 87, 87);
   padding: 7px;
@@ -1147,6 +1155,19 @@
   box-shadow: 0px 187px 75px rgba(0, 0, 0, 0.01), 0px 105px 63px rgba(0, 0, 0, 0.05), 0px 47px 47px rgba(0, 0, 0, 0.09), 0px 12px 26px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
   border-radius: 60px 0 60px 0;
 }
+
+.modalpq {
+  margin-left: 130px;
+  margin-top: 55px;
+  margin-bottom: 50px;
+  width: 1100px;
+  height: 800px;
+  background: linear-gradient(180deg, #DCF9E0 0%, #FFFFFF 30.21%);
+  box-shadow: 0px 187px 75px rgba(0, 0, 0, 0.01), 0px 105px 63px rgba(0, 0, 0, 0.05), 0px 47px 47px rgba(0, 0, 0, 0.09), 0px 12px 26px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 60px 0 60px 0;
+}
+
+
 
 .cardP {
   height: 250px;
@@ -1430,7 +1451,7 @@
   border-radius: 6px 6px 0 0;
 }
 .cardk6-image {
-  background-image: url(/img/article6.jpeg);
+  background-image: url(/img/article8.jpeg);
   border-color: #000000;
   border-style: solid;
   border-width: 2px;
@@ -1522,7 +1543,7 @@ input[type="text"],
 input[type="email"],
 input[type="tel"],
 textarea {
-  width: 100%;
+  width: 98%;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -1542,4 +1563,13 @@ input[type="submit"]:hover {
 }
 
 
+
+/* Style for the dropdown options */
+select {
+  width: 220px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
 
